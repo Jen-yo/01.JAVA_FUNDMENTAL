@@ -1,0 +1,4 @@
+ORACLE SITE:
+http://www.oracle.com/index.html
+http://www.oracle.com/technetwork/java/javase/downloads/index.html
+http://www.oracle.com/technetwork/java/javase/downloads/index.html

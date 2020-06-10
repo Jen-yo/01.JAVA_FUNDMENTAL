@@ -1,0 +1,9 @@
+/*
+		형변환(Casting)--> 숫자형데이타간에만 가능
+		    - 형식 :  (데이타타입)변수or상수;
+		    - 자동형변환(작은데이타-->큰데이타)upcasting
+			     byte-->short-->int-->long-->float-->double
+		    - 강제형변환(큰데이타-->작은데이타)downcasting
+			     double-->float-->long-->int-->short-->byte
+	*/
+		//upcasting(promotion)

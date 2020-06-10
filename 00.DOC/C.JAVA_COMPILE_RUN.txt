@@ -1,0 +1,14 @@
+윈도우시작버튼--> cmd 입력--> enter key
+
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation. All rights reserved.
+
+C:\Users\stu>cd C:\JAVA_SPRING\01.JAVA_FUNDMENTAL\source
+
+C:\JAVA_SPRING\01.JAVA_FUNDMENTAL\source>
+
+C:\JAVA_SPRING\01.JAVA_FUNDMENTAL\source>javac HelloWorld.java
+
+C:\JAVA_SPRING\01.JAVA_FUNDMENTAL\source>java HelloWorld
+
+
